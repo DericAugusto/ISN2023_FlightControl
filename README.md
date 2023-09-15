@@ -1,2 +1,4 @@
-# ISN2023_FlightControl
-Material from the course of Flight Control System Design at ENSEM - Université de Lorraine.
+## Université de Lorraine - ISN ENSEM
+# Applications Aéro
+
+Matériel du cours du S9 - 3èmme année 2023/2. Professeur : DAAFOUZ Jamal.
